@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zscott4
+- 👀 I’m a cybersecurity major!
+- 🌱 I’m currently learning Python and hope to become proficient!!!
+-
