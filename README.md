@@ -1,3 +1,3 @@
-- Hi, I’m @zscott4
+- Hi, I’m Zoe Scott!
 - I’m a cybersecurity major.
 - I’m currently learning Python in hopes of becoming proficient!
